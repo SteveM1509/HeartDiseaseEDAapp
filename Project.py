@@ -24,7 +24,7 @@ from sklearn.metrics import precision_score,recall_score,accuracy_score,f1_score
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 colors = plotly.colors.qualitative.D3
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 sns.set_style('darkgrid')
 # Plans:
 # Overview - Why do we care? Variables overview, Is it really obvious?
